@@ -6,7 +6,7 @@ const path = require('path');
 const axios = require('axios');
 
 // Конфигурация
-const BOT_TOKEN = '7581453915:AAFpBGOalkLMtg5PaiUNNpSB0vsEkae0NME';
+const BOT_TOKEN = 'token';
 const UPLOAD_DIR = path.join(__dirname, 'uploads');
 const OUTPUT_DIR = path.join(__dirname, 'outputs');
 
